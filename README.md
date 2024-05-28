@@ -4,6 +4,7 @@ working directory.
 
 The command `ls` is used to list out Item
 hello world
+This is all about coding
 
 The command `cd` is used to change the current directory.
 
